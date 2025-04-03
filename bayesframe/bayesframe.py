@@ -1,5 +1,5 @@
 import numpy as np
-from .linzoo import LinZoo
+from linzoo import LinZoo
 import pandas as pd
 from sklearn.metrics import mean_squared_error
 
